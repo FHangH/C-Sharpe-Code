@@ -1,0 +1,6 @@
+D:\C#_code\Demo1\StructDemo\bin\Debug\StructDemo.exe.config
+D:\C#_code\Demo1\StructDemo\bin\Debug\StructDemo.exe
+D:\C#_code\Demo1\StructDemo\bin\Debug\StructDemo.pdb
+D:\C#_code\Demo1\StructDemo\obj\Debug\StructDemo.csprojAssemblyReference.cache
+D:\C#_code\Demo1\StructDemo\obj\Debug\StructDemo.exe
+D:\C#_code\Demo1\StructDemo\obj\Debug\StructDemo.pdb

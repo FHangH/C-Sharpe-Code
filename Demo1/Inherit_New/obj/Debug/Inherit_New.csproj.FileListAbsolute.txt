@@ -1,0 +1,4 @@
+D:\C#_code\Demo1\Inherit_New\bin\Debug\Inherit_New.dll
+D:\C#_code\Demo1\Inherit_New\bin\Debug\Inherit_New.pdb
+D:\C#_code\Demo1\Inherit_New\obj\Debug\Inherit_New.dll
+D:\C#_code\Demo1\Inherit_New\obj\Debug\Inherit_New.pdb

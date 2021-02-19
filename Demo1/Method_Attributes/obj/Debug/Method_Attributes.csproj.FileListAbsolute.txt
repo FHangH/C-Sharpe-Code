@@ -1,0 +1,7 @@
+D:\C#_code\Demo1\Method_Attributes\obj\Debug\Method_Attributes.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Method_Attributes\obj\Debug\Method_Attributes.csproj.CoreCompileInputs.cache
+D:\C#_code\Demo1\Method_Attributes\bin\Debug\Method_Attributes.exe.config
+D:\C#_code\Demo1\Method_Attributes\bin\Debug\Method_Attributes.exe
+D:\C#_code\Demo1\Method_Attributes\bin\Debug\Method_Attributes.pdb
+D:\C#_code\Demo1\Method_Attributes\obj\Debug\Method_Attributes.exe
+D:\C#_code\Demo1\Method_Attributes\obj\Debug\Method_Attributes.pdb

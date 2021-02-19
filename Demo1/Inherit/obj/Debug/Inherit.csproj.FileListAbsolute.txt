@@ -1,0 +1,7 @@
+D:\C#_code\Demo1\Inherit\obj\Debug\Inherit.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Inherit\obj\Debug\Inherit.csproj.CoreCompileInputs.cache
+D:\C#_code\Demo1\Inherit\bin\Debug\Inherit.exe.config
+D:\C#_code\Demo1\Inherit\bin\Debug\Inherit.exe
+D:\C#_code\Demo1\Inherit\bin\Debug\Inherit.pdb
+D:\C#_code\Demo1\Inherit\obj\Debug\Inherit.exe
+D:\C#_code\Demo1\Inherit\obj\Debug\Inherit.pdb

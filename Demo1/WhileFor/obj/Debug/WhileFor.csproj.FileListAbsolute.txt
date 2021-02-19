@@ -1,0 +1,7 @@
+D:\C#_code\Demo1\WhileFor\obj\Debug\WhileFor.csprojAssemblyReference.cache
+D:\C#_code\Demo1\WhileFor\obj\Debug\WhileFor.csproj.CoreCompileInputs.cache
+D:\C#_code\Demo1\WhileFor\bin\Debug\WhileFor.exe.config
+D:\C#_code\Demo1\WhileFor\bin\Debug\WhileFor.exe
+D:\C#_code\Demo1\WhileFor\bin\Debug\WhileFor.pdb
+D:\C#_code\Demo1\WhileFor\obj\Debug\WhileFor.exe
+D:\C#_code\Demo1\WhileFor\obj\Debug\WhileFor.pdb

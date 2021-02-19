@@ -1,0 +1,9 @@
+D:\C#_code\Demo1\Enum\bin\Debug\Enum.exe.config
+D:\C#_code\Demo1\Enum\bin\Debug\Enum.exe
+D:\C#_code\Demo1\Enum\bin\Debug\Enum.pdb
+D:\C#_code\Demo1\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Enum\obj\Debug\Enum.exe
+D:\C#_code\Demo1\Enum\obj\Debug\Enum.pdb
+D:\C#_code\Demo1\Enum\bin\Debug\NuGet.Frameworks.dll
+D:\C#_code\Demo1\Enum\bin\Debug\NuGet.Frameworks.xml
+D:\C#_code\Demo1\Enum\obj\Debug\Enum.csproj.CopyComplete

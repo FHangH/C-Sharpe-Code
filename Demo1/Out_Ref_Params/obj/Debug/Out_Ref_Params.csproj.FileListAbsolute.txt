@@ -1,0 +1,6 @@
+D:\C#_code\Demo1\Out_Ref_Params\bin\Debug\Out_Ref_Params.exe.config
+D:\C#_code\Demo1\Out_Ref_Params\bin\Debug\Out_Ref_Params.exe
+D:\C#_code\Demo1\Out_Ref_Params\bin\Debug\Out_Ref_Params.pdb
+D:\C#_code\Demo1\Out_Ref_Params\obj\Debug\Out_Ref_Params.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Out_Ref_Params\obj\Debug\Out_Ref_Params.exe
+D:\C#_code\Demo1\Out_Ref_Params\obj\Debug\Out_Ref_Params.pdb

@@ -1,0 +1,7 @@
+D:\C#_code\Demo1\Object\bin\Debug\Object.exe.config
+D:\C#_code\Demo1\Object\bin\Debug\Object.exe
+D:\C#_code\Demo1\Object\bin\Debug\Object.pdb
+D:\C#_code\Demo1\Object\obj\Debug\Object.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Object\obj\Debug\Object.csproj.CoreCompileInputs.cache
+D:\C#_code\Demo1\Object\obj\Debug\Object.exe
+D:\C#_code\Demo1\Object\obj\Debug\Object.pdb

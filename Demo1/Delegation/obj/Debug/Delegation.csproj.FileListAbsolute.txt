@@ -1,0 +1,6 @@
+D:\C#_code\Demo1\Delegation\bin\Debug\Delegation.exe.config
+D:\C#_code\Demo1\Delegation\bin\Debug\Delegation.exe
+D:\C#_code\Demo1\Delegation\bin\Debug\Delegation.pdb
+D:\C#_code\Demo1\Delegation\obj\Debug\Delegation.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Delegation\obj\Debug\Delegation.exe
+D:\C#_code\Demo1\Delegation\obj\Debug\Delegation.pdb

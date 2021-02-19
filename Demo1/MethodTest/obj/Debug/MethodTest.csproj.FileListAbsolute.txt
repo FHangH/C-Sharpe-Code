@@ -1,0 +1,7 @@
+D:\C#_code\Demo1\MethodTest\bin\Debug\MethodTest.exe.config
+D:\C#_code\Demo1\MethodTest\bin\Debug\MethodTest.exe
+D:\C#_code\Demo1\MethodTest\bin\Debug\MethodTest.pdb
+D:\C#_code\Demo1\MethodTest\obj\Debug\MethodTest.csprojAssemblyReference.cache
+D:\C#_code\Demo1\MethodTest\obj\Debug\MethodTest.csproj.CoreCompileInputs.cache
+D:\C#_code\Demo1\MethodTest\obj\Debug\MethodTest.exe
+D:\C#_code\Demo1\MethodTest\obj\Debug\MethodTest.pdb

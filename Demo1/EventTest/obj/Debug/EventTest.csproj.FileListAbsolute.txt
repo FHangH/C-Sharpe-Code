@@ -1,0 +1,6 @@
+D:\C#_code\Demo1\EventTest\bin\Debug\EventTest.exe.config
+D:\C#_code\Demo1\EventTest\bin\Debug\EventTest.exe
+D:\C#_code\Demo1\EventTest\bin\Debug\EventTest.pdb
+D:\C#_code\Demo1\EventTest\obj\Debug\EventTest.csprojAssemblyReference.cache
+D:\C#_code\Demo1\EventTest\obj\Debug\EventTest.exe
+D:\C#_code\Demo1\EventTest\obj\Debug\EventTest.pdb

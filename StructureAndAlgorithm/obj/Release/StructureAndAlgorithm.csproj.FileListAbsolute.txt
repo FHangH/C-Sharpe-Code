@@ -1,0 +1,4 @@
+D:\C#_code\StructureAndAlgorithm\bin\Release\StructureAndAlgorithm.exe
+D:\C#_code\StructureAndAlgorithm\bin\Release\StructureAndAlgorithm.pdb
+D:\C#_code\StructureAndAlgorithm\obj\Release\StructureAndAlgorithm.exe
+D:\C#_code\StructureAndAlgorithm\obj\Release\StructureAndAlgorithm.pdb

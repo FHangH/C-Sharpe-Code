@@ -1,0 +1,6 @@
+D:\C#_code\Demo1\GameTree_v01\bin\Debug\GameTree_v01.exe.config
+D:\C#_code\Demo1\GameTree_v01\bin\Debug\GameTree_v01.exe
+D:\C#_code\Demo1\GameTree_v01\bin\Debug\GameTree_v01.pdb
+D:\C#_code\Demo1\GameTree_v01\obj\Debug\GameTree_v01.csprojAssemblyReference.cache
+D:\C#_code\Demo1\GameTree_v01\obj\Debug\GameTree_v01.exe
+D:\C#_code\Demo1\GameTree_v01\obj\Debug\GameTree_v01.pdb

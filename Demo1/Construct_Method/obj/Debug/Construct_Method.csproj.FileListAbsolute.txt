@@ -1,0 +1,7 @@
+D:\C#_code\Demo1\Construct_Method\bin\Debug\Construct_Method.exe.config
+D:\C#_code\Demo1\Construct_Method\bin\Debug\Construct_Method.exe
+D:\C#_code\Demo1\Construct_Method\bin\Debug\Construct_Method.pdb
+D:\C#_code\Demo1\Construct_Method\obj\Debug\Construct_Method.csprojAssemblyReference.cache
+D:\C#_code\Demo1\Construct_Method\obj\Debug\Construct_Method.csproj.CoreCompileInputs.cache
+D:\C#_code\Demo1\Construct_Method\obj\Debug\Construct_Method.exe
+D:\C#_code\Demo1\Construct_Method\obj\Debug\Construct_Method.pdb

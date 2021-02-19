@@ -1,0 +1,6 @@
+D:\C#_code\Demo1\ArrayTest\bin\Debug\ArrayTest.exe.config
+D:\C#_code\Demo1\ArrayTest\bin\Debug\ArrayTest.exe
+D:\C#_code\Demo1\ArrayTest\bin\Debug\ArrayTest.pdb
+D:\C#_code\Demo1\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache
+D:\C#_code\Demo1\ArrayTest\obj\Debug\ArrayTest.exe
+D:\C#_code\Demo1\ArrayTest\obj\Debug\ArrayTest.pdb

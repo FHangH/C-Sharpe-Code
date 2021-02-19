@@ -1,0 +1,6 @@
+D:\C#_code\StructureAndAlgorithm\ArrayStructure\obj\Debug\ArrayStructure.csprojAssemblyReference.cache
+D:\C#_code\StructureAndAlgorithm\ArrayStructure\bin\Debug\ArrayStructure.exe
+D:\C#_code\StructureAndAlgorithm\ArrayStructure\bin\Debug\ArrayStructure.pdb
+D:\C#_code\StructureAndAlgorithm\ArrayStructure\obj\Debug\ArrayStructure.exe
+D:\C#_code\StructureAndAlgorithm\ArrayStructure\obj\Debug\ArrayStructure.pdb
+D:\C#_code\StructureAndAlgorithm\ArrayStructure\obj\Debug\ArrayStructure.csproj.CoreCompileInputs.cache

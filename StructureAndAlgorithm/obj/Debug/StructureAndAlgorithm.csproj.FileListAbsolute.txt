@@ -1,0 +1,6 @@
+D:\C#_code\StructureAndAlgorithm\bin\Debug\StructureAndAlgorithm.exe
+D:\C#_code\StructureAndAlgorithm\bin\Debug\StructureAndAlgorithm.pdb
+D:\C#_code\StructureAndAlgorithm\obj\Debug\StructureAndAlgorithm.csprojAssemblyReference.cache
+D:\C#_code\StructureAndAlgorithm\obj\Debug\StructureAndAlgorithm.exe
+D:\C#_code\StructureAndAlgorithm\obj\Debug\StructureAndAlgorithm.pdb
+D:\C#_code\StructureAndAlgorithm\obj\Debug\StructureAndAlgorithm.csproj.CoreCompileInputs.cache
